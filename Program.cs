@@ -7,7 +7,6 @@ int count = int.Parse(Console.ReadLine());
 int fur = 0;
 int fur2 = 1;
 
-
 void Change(int x, int y, int z)
 {
     int change = 0;
